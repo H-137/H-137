@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @H-137
-- 👀 I’m interested web and game development
+- 👋 Hi, I’m Matt Leopold
+- 👀 I’m a sophomore at Boston college studying computer science
