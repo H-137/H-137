@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Hi, I’m Matthew Leopold, a junior at Boston College studying Computer Science and Biology. Here you can find the repositories for some of my public projects.
+Hi, I’m Matthew Leopold, a senior at Boston College studying Computer Science and Biology. Here you can find the repositories for some of my public projects.
 
 ## Highlighted Projects 🚀
 
